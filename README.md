@@ -24,9 +24,6 @@ Proyek ini berisi contoh dasar embedding HTML menggunakan elemen seperti <iframe
 
 🔧 Fitur
 Menyematkan video YouTube
-
-Menampilkan peta Google
-
 Menambahkan elemen multimedia (gambar, audio, video)
 
 💡 Tujuan
