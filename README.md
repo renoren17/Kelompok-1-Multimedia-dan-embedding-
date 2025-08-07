@@ -1,6 +1,6 @@
 # Kelompok-1-Multimedia-dan-embedding (PWB)
 
-Kelompok 4 - Multimedia dan Embedding
+Kelompok 1 - Multimedia dan Embedding
 
 1. Zabran Farzana Azaria
 
