@@ -18,3 +18,16 @@ Kelompok 1 - Multimedia dan Embedding
 
 
 6. Shaquil Rafa Aqilah
+
+📌 Embedding HTML & Multimedia
+Proyek ini berisi contoh dasar embedding HTML menggunakan elemen seperti <iframe> dan <embed>. Juga mencakup penggunaan elemen multimedia seperti teks, gambar, audio, dan video.
+
+🔧 Fitur
+Menyematkan video YouTube
+
+Menampilkan peta Google
+
+Menambahkan elemen multimedia (gambar, audio, video)
+
+💡 Tujuan
+Untuk memahami cara menyisipkan konten dari sumber lain dan menggunakan media berbeda dalam halaman web.
