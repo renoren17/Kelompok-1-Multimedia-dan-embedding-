@@ -1,4 +1,4 @@
-# Kelompok-4-Multimedia-dan-embedding (PWB)
+# Kelompok-1-Multimedia-dan-embedding (PWB)
 
 Kelompok 4 - Multimedia dan Embedding
 
